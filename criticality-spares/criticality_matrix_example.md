@@ -1,11 +1,12 @@
-# Asset Criticality Matrix (Concept Example)
+# Criticality Matrix Example
 
-Columns:
+Suggested fields:
 - Asset
-- Safety Impact (High/Med/Low)
-- Quality Impact
-- Production Impact
-- Downtime Cost Estimate
-- Recommended Spares Strategy
+- Safety impact
+- Environmental impact
+- Production impact
+- Downtime cost
+- Lead time for parts
+- Recommended spare strategy
 
-Use this as a framework to prioritize maintenance focus and spare parts.
+Use this to prioritize PM and stock decisions.

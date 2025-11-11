@@ -1,12 +1,13 @@
 # Root Cause Analysis Template
 
-1. Problem Statement
-2. Date/Time and Line/Asset
-3. Impact (safety, production, quality, cost)
-4. Containment Actions
-5. Data Collected (logs, photos, measurements)
-6. Possible Causes (brainstorm)
-7. Analysis (5-Why, fishbone, or similar)
-8. Identified Root Cause
-9. Corrective Actions (with owners and due dates)
-10. Verification Plan
+1. Problem statement
+2. Asset / line / location
+3. Date and time range
+4. Impact (safety, quality, production, cost)
+5. Containment actions
+6. Evidence and data collected
+7. Possible causes considered
+8. Analysis method (5-Why, fishbone, etc.)
+9. Identified root cause(s)
+10. Corrective and preventive actions
+11. Verification of effectiveness

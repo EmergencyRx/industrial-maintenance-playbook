@@ -1,10 +1,21 @@
 # Weekly Preventive Maintenance Checklist – Conveyor
 
+Mechanical:
 - Inspect belt for tracking, damage, splice integrity.
-- Confirm guards and safety devices are present, secure, and functional.
-- Check gearbox and motor for leaks, abnormal noise, or temperature.
-- Inspect bearings and rollers for wear or free movement.
-- Verify chain or belt tension per manufacturer specification.
-- Clean product buildup from frames, sensors, and photo-eyes.
-- Check emergency stops and interlocks.
-- Document findings and create work orders for defects.
+- Inspect rollers and bearings for noise, wobble, debris.
+- Check chain or belt tension per specification.
+
+Safety:
+- Confirm guards and covers are present and secure.
+- Test emergency stops and interlocks.
+
+Drives:
+- Check motor and gearbox for leaks, noise, temperature.
+- Inspect couplings and keys.
+
+Cleanliness:
+- Remove buildup from frames, rollers, sensors, and photo-eyes.
+
+Documentation:
+- Record findings.
+- Create corrective work orders for defects.
