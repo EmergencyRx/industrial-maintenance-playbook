@@ -1,12 +1,10 @@
-# Example Lockout/Tagout Procedure (Template)
+# Lockout/Tagout Procedure Template
 
-1. Notify affected employees.
-2. Identify all energy sources for the asset.
+1. Identify all energy sources.
+2. Notify affected personnel.
 3. Shut down equipment using normal procedures.
-4. Isolate energy using locks, valves, and disconnects.
-5. Dissipate or restrain stored energy.
-6. Verify zero energy state.
+4. Isolate energy with locks/tags.
+5. Dissipate stored energy.
+6. Verify zero energy.
 7. Perform work.
-8. Restore equipment following controlled steps.
-
-Adapt this template to each specific asset with detailed steps and verification points.
+8. Restore equipment and remove locks/tags.
