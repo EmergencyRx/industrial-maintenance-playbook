@@ -1,10 +1,10 @@
 # Lockout/Tagout Procedure Template
 
-1. Identify all energy sources.
-2. Notify affected personnel.
-3. Shut down equipment using normal procedures.
-4. Isolate energy with locks/tags.
-5. Dissipate stored energy.
-6. Verify zero energy.
-7. Perform work.
-8. Restore equipment and remove locks/tags.
+1. Preparation: identify all energy sources.
+2. Notification: inform affected personnel.
+3. Shutdown: follow normal stop procedure.
+4. Isolation: apply locks/tags to all energy-isolating devices.
+5. Dissipation: release stored or residual energy.
+6. Verification: attempt start to confirm zero energy.
+7. Work: perform maintenance.
+8. Return to service: remove tools, restore guards, remove locks/tags, notify.
