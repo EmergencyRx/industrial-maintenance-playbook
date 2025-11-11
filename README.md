@@ -2,35 +2,12 @@
 
 Templates and guides for maintaining high-speed industrial equipment with structure, safety, and reliability.
 
-## Scope
+## Contents
 
-Included and planned content:
-
-- Preventive maintenance checklists for conveyors, printers, packaging lines, and related assets
+- Preventive maintenance checklists for key assets
 - Root Cause Analysis (RCA) templates
-- Standard operating procedures (SOPs) and work instructions
+- Standard operating procedures (SOPs)
 - Safety and lockout/tagout (LOTO) examples
-- Asset criticality ranking and spare parts standards
+- Asset criticality and spare parts concepts
 
-## Suggested Structure
-
-- pm-checklists/
-- rca-templates/
-- sop/
-- safety-loto/
-- criticality-spares/
-- examples/
-
-## Use Cases
-
-- Establishing maintenance structure as a supervisor or lead
-- Training technicians using written standards
-- Demonstrating reliability engineering and documentation capability
-
-## Status and Roadmap
-
-- Repository and layout defined
-- Next steps:
-  - Populate baseline PM templates
-  - Add RCA and SOP examples
-  - Map examples to common CMMS fields
+These documents are generic and intended as a starting point, not a replacement for site-specific procedures.
